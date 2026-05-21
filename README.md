@@ -20,11 +20,11 @@ O objetivo deste projeto é demonstrar a evolução de um script simples de aná
 
 O projeto está dividido em duas etapas que demonstram a evolução da arquitetura de código:
 
-### 1. `01_script_basico_exploratorio.py`
+### 1. `inicio_teste/01_script_basico_exploratorio.py`
 * **Foco:** Análise Exploratória.
 * **Descrição:** A fundação do projeto. Um script de linha única que conecta ao banco SQLite, insere dados iniciais e utiliza o Pandas para agrupar as informações e extrair médias matemáticas simples (`.describe()`).
 
-### 2. `02_pipeline_etl_avancado.py`
+### 2. `pipeline_etl/02_pipeline_etl_avancado.py`
 * **Foco:** Engenharia de Dados (Arquitetura Enterprise).
 * **Descrição:** O código foi refatorado para o padrão ETL corporativo.
   * **Extract:** Conexão segura (`try/except/finally`) e extração idempotente do banco relacional.
