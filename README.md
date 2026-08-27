@@ -1,4 +1,4 @@
-# 📊 Portefólio de Engenharia de Dados & IA: Python Bootcamp
+# Portefólio de Engenharia de Dados & IA: Python Bootcamp
 
 Este repositório consolida as práticas de Análise de Dados, Engenharia de Dados (ETL), Machine Learning e Inteligência Artificial Generativa desenvolvidas durante o **Bootcamp de Análise de Dados com Python (Afya/DIO)**.
 
@@ -18,7 +18,7 @@ O objetivo do projeto é demonstrar a evolução de scripts básicos para arquit
 
 ---
 
-## 📂 Estrutura e Módulos do Projeto
+## Estrutura e Módulos do Projeto
 
 O repositório está dividido em quatro módulos principais, refletindo uma esteira completa de desenvolvimento de sistemas orientados a dados:
 
