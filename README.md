@@ -6,7 +6,7 @@ O objetivo do projeto é demonstrar a evolução de scripts básicos para arquit
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 * **Linguagens e Lógica:** Python 3
 * **Manipulação de Dados:** Pandas, NumPy
